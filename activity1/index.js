@@ -143,7 +143,7 @@ let btnProfile = document.querySelector('#btnProfile');
   //for loop
 }*/
 function displayCard(){
-  if ()
+  
 }
 // Call the event
 
